@@ -1,0 +1,14 @@
+{
+  "name": "converttobw",
+  "version": "1.0.0",
+  "description": "Convert PNG image to black and white",
+  "main": "convertToBW.js",
+  "scripts": {
+    "start": "node convertToBW.js"
+  },
+  "dependencies": {
+    "sharp": "^0.29.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
